@@ -1,2 +1,2 @@
 var num = 50;
-var truth = "Assalamualaikum watohmatullah";
+var truth = "wa alaikum salam"
